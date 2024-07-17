@@ -1,6 +1,11 @@
+import pandas as pd
+import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
+
+# Load the DESeq2 results
+res_df = pd.read_csv('C:/Users/sugam patel/Downloads/deseq2_results.csv', index_col=0)
 
 
 # Set the criteria for the significant gene
