@@ -1,3 +1,6 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
 
 
 # Set the criteria for the significant gene
