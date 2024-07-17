@@ -69,7 +69,7 @@ To run the DESeq2 analysis, follow these steps:
 
 - [DESeq2 Documentation](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [Bioconductor](https://bioconductor.org/)
-- [rpy2] (https://pypi.org/project/rpy2/)
+- [rpy2](https://pypi.org/project/rpy2/)
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
