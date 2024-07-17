@@ -16,9 +16,8 @@ This repository contains an example of using DESeq2 in Python for differential g
 
 ## Introduction
 
-[DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) is a widely used tool for differential gene expression (DGE) analysis in RNA-SEQ data. And it is mainly implemented in [R](https://cran.r-project.org/).
-However, you can use [rpy2](https://pypi.org/project/rpy2/), a Python library that allows you to run R code. 
-
+[DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) is a widely used tool for differential gene expression (DGE) analysis in RNA-Seq data, and it is mainly implemented in [R](https://cran.r-project.org/).
+However, you can use [rpy2](https://pypi.org/project/rpy2/), a Python library that allows you to run R code. If you're interested in learning more about RNA-seq analysis, I highly recommend visiting [RNA-seqlopedia](https://rnaseq.uoregon.edu/). This comprehensive resource provides valuable insights into RNA-seq, covering everything from basic concepts to advanced techniques. It's an excellent starting point for anyone looking to deepen their understanding of RNA-seq analysis.
 ## Installation 
 
 To run the DESeq2 example in Python, Ensure you have installed `R` on your system, and install the required packages. Follow these steps:
@@ -70,13 +69,13 @@ To run the DESeq2 analysis, follow these steps:
 
 - [DESeq2 Documentation](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
 - [Bioconductor](https://bioconductor.org/)
-- [Python Bioconda](https://bioconda.github.io/)
+- [rpy2] (https://pypi.org/project/rpy2/)
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
 
 ## Contact
-Thanks for visiting this repository! If you have any questions or feedback, feel free to contact me at [Gmail](ptlsugam@gmail.com).
+Thanks for visiting this repository! If you have any questions or feedback, feel free to contact me at [ptlsugam@gmail.com].
 
 ## Acknowledgements
 Thank you for visiting this repository. Your feedback and contributions are greatly appreciated. Feel free to reach out if you have any suggestions for improvements or new features.
