@@ -1,6 +1,6 @@
 # DESeq2 Example in Python
 
-This repository contains an example of using DESeq2 in Python for differential gene expression analysis.
+This repository contains an example of using `DESeq2` in Python for differential gene expression analysis.
 
 ## Table of Contents
 
