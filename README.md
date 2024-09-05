@@ -17,7 +17,7 @@ This repository contains an example of using `DESeq2` in Python for differential
 ## Introduction
 
 [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) is a widely used tool for differential gene expression `(DGE)` analysis in RNA-Seq data, and it is mainly implemented in [R](https://cran.r-project.org/).
-However, you can use [rpy2](https://pypi.org/project/rpy2/), a Python library that allows you to run R code. If you want to learn more about RNA-seq analysis, I highly recommend visiting [RNA-seqlopedia](https://rnaseq.uoregon.edu/). This comprehensive resource provides valuable insights into RNA-seq, covering everything from basic concepts to advanced techniques. It's an excellent starting point for anyone looking to deepen their understanding of RNA-seq analysis.
+However, you can use [rpy2](https://pypi.org/project/rpy2/), a Python library that allows you to run R code. If you want to learn more about RNA-seq analysis, I highly recommend, visiting [RNA-seqlopedia](https://rnaseq.uoregon.edu/). This comprehensive resource provides valuable insights into RNA-seq, covering everything from basic concepts to advanced techniques. It's an excellent starting point for anyone looking to deepen their understanding of RNA-seq analysis.
 ## Installation 
 
 To run the DESeq2 example in Python, Ensure you have installed `R` on your system, and install the required packages. Follow these steps:
